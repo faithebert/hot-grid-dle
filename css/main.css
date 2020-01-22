@@ -24,3 +24,8 @@ html {
   display: block;
   width: 100%;
 }
+
+figcaption {
+  background-color: rgba(46, 49, 49, .33);
+  max-width: 15em;
+}
